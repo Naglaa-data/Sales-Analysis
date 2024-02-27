@@ -1,13 +1,13 @@
 # Sales-Analysis
 This data analysis project aims to provide insights into the sales performance of a company over the 2003,2004 and 2005. By analyzing various aspects of the sales data, we seek to identify trends and gain a deeper understanding of the company's performance.
 
-## Data Source
+### Data Source
   Sales Data: The primary dataset used for this analysis is the "sales_data.xlsx" file.
 
-## Tools
+### Tools
   •	Power BI 
     
-## Data Cleaning and Preparation
+### Data Cleaning and Preparation
 In the initial data preparation phase, we performed the following tasks:
 1.	Data loading and inspection.
 2.	Data cleaning and formatting.
@@ -15,7 +15,7 @@ In the initial data preparation phase, we performed the following tasks:
 5.	Create calendar table
 6.	Create relationship between the created fact table and the dimesnion Tables
 
-## Exploratory Data Analysis
+### Exploratory Data Analysis
   EDA involved exploring the sales data to answer key questions, such as:
    1. What is the overall trend in sales?
    2. Which products are the best-sellers?
