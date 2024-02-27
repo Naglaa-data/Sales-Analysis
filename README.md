@@ -10,9 +10,9 @@ This data analysis project aims to provide insights into the sales performance o
 ## Data Cleaning and Preparation
 In the initial data preparation phase, we performed the following tasks:
 1.	Data loading and inspection.
-2.	Remove Duplicates
-3.	Data cleaning and formatting.
-4.	Data Modeling
+2.	Data cleaning and formatting.
+4.	Create dimension Tables and a fact table from the given data set.
+5.	Create relationship between the created fact table and the dimesnion Tables
 
 ## Exploratory Data Analysis
   EDA involved exploring the sales data to answer key questions, such as:
@@ -21,16 +21,5 @@ In the initial data preparation phase, we performed the following tasks:
  3-Who are our top customers in terms of sales volume?
  4-How do sales vary across different  countries?
 
-## Results/Findings
-The analysis results are summarized as follows:
-1.	The company's sales have been steadily increasing over 2003 and 2004, with a noticeable peak in November.
-2.	Product-Line ..........is the best-performing Product-Line ......in terms of sales .
-3.	Customer segments ...................................
-   
-## Recommendations
- Based on the analysis, we recommend the following actions:
-•	Invest in marketing and promotions during peak sales month to maximize sales.
-•	Focus on expanding and promoting products in Product-Line .......
-•	Implement a customer segmentation strategy to target ............................ effectively.
 
 
