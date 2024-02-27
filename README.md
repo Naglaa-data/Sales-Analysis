@@ -2,7 +2,7 @@
 This data analysis project aims to provide insights into the sales performance of a company over the 2003,2004 and 2005. By analyzing various aspects of the sales data, we seek to identify trends and gain a deeper understanding of the company's performance.
 
 ## Data Source
-  Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file.
+  Sales Data: The primary dataset used for this analysis is the "sales_data.xlsx" file.
 
 ## Tools
   •	Power BI 
@@ -11,8 +11,9 @@ This data analysis project aims to provide insights into the sales performance o
 In the initial data preparation phase, we performed the following tasks:
 1.	Data loading and inspection.
 2.	Data cleaning and formatting.
-4.	Create dimension Tables and a fact table from the given data set.
-5.	Create relationship between the created fact table and the dimesnion Tables
+4.	Create dimension tables and a fact table from the given dataset.
+5.	Create calendar table
+6.	Create relationship between the created fact table and the dimesnion Tables
 
 ## Exploratory Data Analysis
   EDA involved exploring the sales data to answer key questions, such as:
